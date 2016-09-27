@@ -1,7 +1,7 @@
 {
-	"packageUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/",
-	"remoteManifestUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/project_dev.manifest",
-	"remoteVersionUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/version_dev.manifest",
-	"version" : "1.2.0",
-	"engineVersion" : "3.0 dev"
+    "packageUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/",
+    "remoteManifestUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/moregame.manifest",
+    "remoteVersionUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/moregame_version.manifest",
+    "version" : "1.0.1",
+    "engineVersion" : "3.x dev"
 }
