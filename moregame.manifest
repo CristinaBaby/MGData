@@ -5,7 +5,7 @@
     "version" : "1.0.1",
     "engineVersion" : "3.x dev",
     "assets" : {
-        "config.plist" : {
+        "icon/0.png" : {
         "md5" : "..."
         }
     },
