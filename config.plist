@@ -13,6 +13,8 @@
 			<string></string>
 			<key>aid</key>
 			<string></string>
+			<key>pos</key>
+			<string>90,90,-1,-1</string>
 		</dict>
 		<dict>
 			<key>num</key>
@@ -23,6 +25,8 @@
 			<string></string>
 			<key>aid</key>
 			<string></string>
+			<key>pos</key>
+			<string>90,90,-1,-1</string>
 		</dict>
 		<dict>
 			<key>num</key>
@@ -43,6 +47,8 @@
 			<string></string>
 			<key>aid</key>
 			<string></string>
+			<key>pos</key>
+			<string>90,90,-1,-1</string>
 		</dict>
 		<dict>
 			<key>num</key>
@@ -53,6 +59,8 @@
 			<string></string>
 			<key>aid</key>
 			<string>1118224950</string>
+			<key>pos</key>
+			<string>90,90,-1,-1</string>
 		</dict>
 	</array>
 </dict>
