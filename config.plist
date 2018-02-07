@@ -63,5 +63,14 @@
 			<string>90,90,-1,-1</string>
 		</dict>
 	</array>
+	<key>ios</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>com.dinosaur.diy005.foodcarniva</string>
+			<key>debug</key>
+			<true/>
+		</dict>
+	</array>
 </dict>
 </plist>
