@@ -1,7 +1,7 @@
 {
 "packageUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/",
-    "remoteManifestUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/project.manifest",
-    "remoteVersionUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/version.manifest",
-    "version" : "1.0.1",
-    "engineVersion" : "3.x dev"
+"remoteManifestUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/project_dev.manifest",
+"remoteVersionUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene1/version.manifest",
+"version" : "1.2.0",
+"engineVersion" : "3.0 dev"
 }
