@@ -1,7 +1,7 @@
 {
     "packageUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/",
-    "remoteManifestUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/moregame.manifest",
-    "remoteVersionUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/moregame_version.manifest",
+    "remoteManifestUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/project.manifest",
+    "remoteVersionUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/version.manifest",
     "version" : "1.0.1",
     "engineVersion" : "3.x dev"
 }
