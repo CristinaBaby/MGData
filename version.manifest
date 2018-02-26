@@ -1,7 +1,1 @@
-{
-"packageUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/",
-"remoteManifestUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/project.manifest",
-"remoteVersionUrl" : "https://raw.githubusercontent.com/CristinaBaby/MGData/master/version.manifest",
-"version" : "1.1.0",
-"engineVersion" : "3.x dev",
-
+{"version":"1.1.0","packageUrl":"https://raw.githubusercontent.com/CristinaBaby/MGData/master/version.manifest","remoteManifestUrl":"https://raw.githubusercontent.com/CristinaBaby/MGData/master/version.manifest/project.manifest","remoteVersionUrl":"https://raw.githubusercontent.com/CristinaBaby/MGData/master/version.manifest/version.manifest"}
